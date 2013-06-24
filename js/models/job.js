@@ -1,5 +1,4 @@
 define(function(Job){
-	'use strict';
 	/**
 	* Creates a Job object out of options object
 	* @constructor

@@ -1,5 +1,4 @@
 define(['jquery', 'mustache', 'defaults', 'models/cv', 'text!templates/cv.html'], function($, Mustache, defaults, CV, cvTemplate){
-	'use strict';
 	var App = function(options){
 		options = options || {};
 		options.url = options.url || defaults.url;

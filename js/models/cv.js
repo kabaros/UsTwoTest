@@ -1,5 +1,4 @@
 define(['models/job'], function(Job){
-	'use strict';
 	/**
 	Extracts a single element from Google feed single line catering for the case where it's null
 
