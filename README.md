@@ -12,6 +12,4 @@ It was  hard to do this exercise as the requirements were too broad. But I have 
 
 3. Templates: used Mustache templating engine to construct the HTML page
 
-Notes:
-
-I haven't used a framework because of the simplicity of the requirement. I didn't care about the styling of the output and used Twitter bootstrap.
+Notes: I haven't used a framework because of the simplicity of the requirement and used simple/default styling from bootstrap as there were no styling requirements.
