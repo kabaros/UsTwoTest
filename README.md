@@ -12,4 +12,4 @@ It was  hard to do this exercise as the requirements were too broad. But I have 
 
 3. Templates: used Mustache templating engine to construct the HTML page
 
-Notes: I haven't used a framework because of the simplicity of the requirement and used simple/default styling from bootstrap as there were no styling requirements.
+Notes: I haven't used a framework because of the simplicity of the requirement and used simple/default styling from bootstrap as there were no styling requirements. I removed the "use strict" from the JavaScript code to make it viewable with rawgithub .
